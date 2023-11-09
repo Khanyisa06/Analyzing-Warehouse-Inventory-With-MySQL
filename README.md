@@ -1,29 +1,27 @@
 # Mint Classics Warehouse Inventory Analysis
+
+In this project, I will step into the shoes of an entry-level data analyst at the fictional Mint Classics Company, helping to analyse data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility. 
+
+
 ## *Table of Contents*
 
-- [Project Scenario](#project-scenario)
-- [Project Overview](#project-overview)
-- [Project Objectives](#project-objectives)
-- [Data Sources](#data-sources)
-- [Project Tools](#project-tools)
-- [Data cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Findings](#findings)
-- [Recommendation](#recommendation)
-- [Limitations](#limitations)
-- [References](#references)
+1. [Project Scenario](#project-scenario)
+2. [Project Objectives](#project-objectives)
+3. [Data Sources](#data-sources)
+4. [Project Tools](#project-tools)
+5. [Data cleaning](#data-cleaning)
+6. [Exploratory Data Analysis](#exploratory-data-analysis)
+7. [Data Analysis](#data-analysis)
+8. [Findings](#findings)
+9. [Recommendation](#recommendation)
+10. [Limitations](#limitations)
+11. [References](#references)
 
 ### Project Scenario
 
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. To support a data-based business decision, they are looking for suggestions and recommendations for reorganising or reducing inventory, while still maintaining timely service to their customers. For example, they would like to be able to ship a product to a customer within 24 hours of the order being placed. 
 
-As a data analyst, you have been asked to use MySQL Workbench to familiarise yourself with the general business by examining the current data. You will be provided with a data model and sample data tables to review. You will then need to isolate and identify those parts of the data that could be useful in deciding how to reduce inventory. 
-
-### Project Overview
-
-In this project, I will step into the shoes of an entry-level data analyst at the fictional Mint Classics Company, helping to analyse data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility. 
-
+As a data analyst, I have been asked to use MySQL Workbench to familiarise yourself with the general business by examining the current data. You will be provided with a data model and sample data tables to review. You will then need to isolate and identify those parts of the data that could be useful in deciding how to reduce inventory. 
 
 ### Project Objectives
 
