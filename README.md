@@ -26,15 +26,18 @@ As a data analyst, I have been asked to use MySQL Workbench to familiarise yours
 ### Project Objectives
 
 - Import an existing database using MySQL Workbench.
-- Get familliar with the business and its data by reviewing a relational model diagram and exploring tables of data in MySQL Workbench.
-- Analyse inventory data using SQL queries in MySQL Workbench that retrieve data from a multiple-table relational database using SQL commands such as: select, order by, where, group by, and having.
+- Get familliar with the business and its data by reviewing a relational model diagram and exploring tables of 
+  data in MySQL Workbench.
+- Analyse inventory data using SQL queries in MySQL Workbench that retrieve data from a multiple-table 
+  relational database using SQL commands such as: select, order by, where, group by, and having.
 - Develop recommendations and suggestions for solving a business need/problem based on data analysis.
 - Support the recommendations and suggestions for inventory reduction in the form of scripted queries.
 - Share the findings.
 
 ### Data Sources
--  A Mint Classics SQL file containing dataset was provided
-- For reference and use in analysis, the EER (Extended Entity-Relationship) diagram that models the structure of the Mint Classics database was provided
+- Inventory Data: The primary dataset used for this project is the "mintclassicsDB.sql" file. 
+- For reference and use in analysis, the Extended Entity-Relationship "Mint_Classics_ERD.png" diagram that 
+  models the structure of the Mint Classics database was provided
 
 ### Project Tools
 - MySQL workbench- Data manipulation, Data Analysis
